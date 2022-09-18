@@ -33,6 +33,10 @@ function FormCard( { movieId } : Props) {
             return;
         }
 
+        if (isNaN(score) || score === Infinity || score < 1 || score > 5) {
+            return;
+        }
+
         const config: AxiosRequestConfig = {
             baseURL: BASE_URL,
             method: 'PUT',

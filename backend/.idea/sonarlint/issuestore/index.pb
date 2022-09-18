@@ -1,10 +1,6 @@
 
 h
 8src/main/java/com/devsuperior/dsmovie/entities/User.java,2\c\2c6487d699de6899e492aa31f6f173972cd9020d
-i
-9src/main/java/com/devsuperior/dsmovie/entities/Score.java,4\5\45a348452d83b55fd85e52051244b364e6fbc816
-k
-;src/main/java/com/devsuperior/dsmovie/entities/ScorePK.java,6\1\61ce557a849909ac8ce1c98bd1e963226b01f8b4
 g
 7src/main/java/com/devsuperior/dsmovie/dto/MovieDTO.java,c\d\cd3941832014694e99c98a5c13b115dae9cb8e92
 p
@@ -21,18 +17,3 @@ A
 system.properties,a\5\a5db35984da8ffa0e255c16a2e31ae7b26e7d222
 m
 =src/main/java/com/devsuperior/dsmovie/DSMovieApplication.java,a\8\a80503416f3a211b91bc5eb5b882bffecb314485
-o
-?src/main/java/com/devsuperior/dsmovie/service/MovieService.java,1\a\1a77a9a99eafc78203b5545a4144dff0820c2b3c
-o
-?src/main/java/com/devsuperior/dsmovie/service/ScoreService.java,5\5\557f3ffd302b0a895a4cdd4ef5aba1f9ca193d01
-:
-
-create.sql,c\4\c4e543c554b99ccccd987f50a97bdc2adf2ccccf
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-u
-Esrc/main/java/com/devsuperior/dsmovie/repository/MovieRepository.java,4\9\49f41261d12b7f9952a0fea40a44e12088137a57
-u
-Esrc/main/java/com/devsuperior/dsmovie/repository/ScoreRepository.java,a\2\a2883932d719aa1ab8ef7b2f5bfadb1247ffa838
-t
-Dsrc/main/java/com/devsuperior/dsmovie/repository/UserRepository.java,e\8\e81e3cea8aea5b580489adcdb266fac784f2bc3a
