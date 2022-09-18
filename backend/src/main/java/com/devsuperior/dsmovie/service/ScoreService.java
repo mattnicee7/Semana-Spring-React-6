@@ -26,6 +26,10 @@ public class ScoreService {
 
     @Transactional
     public MovieDTO saveScore(ScoreDTO scoreDTO) {
+        if (scoreDTO.getScore() < 1 || scoreDTO.getScore() > 5 || Double.isNaN(scoreDTO.getScore()) || Double.isInfinite(scoreDTO.getScore())) {
+            return new MovieDTO(movieRepository.findById(scoreDTO.getMovieId()).get());
+        }
+
         String email = scoreDTO.getEmail();
         User user = userRepository.findByEmail(email);
 

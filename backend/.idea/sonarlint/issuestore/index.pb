@@ -5,14 +5,10 @@ g
 7src/main/java/com/devsuperior/dsmovie/dto/MovieDTO.java,c\d\cd3941832014694e99c98a5c13b115dae9cb8e92
 p
 @src/main/java/com/devsuperior/dsmovie/config/SecurityConfig.java,3\7\3750b56bbff0c43d48b032557cf289e4ac32fe78
-u
-Esrc/main/java/com/devsuperior/dsmovie/controller/MovieController.java,8\0\80f6fde8205ea48f9f52896dba797905bd11871c
 i
 9src/main/java/com/devsuperior/dsmovie/entities/Movie.java,7\b\7b1872cb7a57a59485003b6341194dfa37750e07
 g
 7src/main/java/com/devsuperior/dsmovie/dto/ScoreDTO.java,c\d\cdd546c5576819290eea7d00470d7c587cf71c01
-u
-Esrc/main/java/com/devsuperior/dsmovie/controller/ScoreController.java,a\f\af07e006fbb373aacff94ca8db37e6198edd14b6
 A
 system.properties,a\5\a5db35984da8ffa0e255c16a2e31ae7b26e7d222
 m
