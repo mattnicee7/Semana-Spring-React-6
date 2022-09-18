@@ -10,11 +10,11 @@ Backend deployed at:
 
 Build yourself:
 
-Backend:
+- Backend:
 
 Run the backend in intellij or some IDE.
 
-Frontend:
+- Frontend:
 
 ```
 yarn start
